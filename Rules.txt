@@ -1,0 +1,22 @@
+
+		---------------------------------------------------------------------------------------------------
+
+						Instructions for Playing HANGMAN
+
+		1. Play Individually.
+
+		2. Have the player select a letter of the alphabet.
+
+		3. If the letter is contained in the Word, the player takes another turn guessing a letter. 
+
+		4. If the letter is not contained in the word, a portion of the HANGMAN is added.
+
+		5. The game continues until:
+
+			1. The word is guessed(all letters are revealed) - WINNER or,
+
+			2. All the parts of the HANGMAN are displayed - LOSER.
+
+		---------------------------------------------------------------------------------------------------
+
+				START GAME (S)				QUIT (Q)
